@@ -1,0 +1,89 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "x",
+      "last_name": "x",
+      "age": 26,
+      "adress": "Tirane",
+      "is_hired": "True",
+      "user": "1",
+      "is_deleted": "False"
+    },
+    {
+      "id": "2",
+      "name": "y",
+      "last_name": "y",
+      "age": 27,
+      "adress": "Elbasan",
+      "is_hired": "True",
+      "user": "2",
+      "is_deleted": "False"
+    },
+    {
+      "id": "3",
+      "name": "z",
+      "last_name": "z",
+      "age": 28,
+      "adress": "Durres",
+      "is_hired": "True",
+      "user": "3",
+      "is_deleted": "False"
+    },
+    {
+      "id": "af03"
+    },
+    {
+      "id": "6cbc"
+    },
+    {
+      "id": "821c"
+    },
+    {
+      "id": "da38"
+    },
+    {
+      "id": "f805"
+    },
+    {
+      "id": "73ff",
+      "name": "hasa1",
+      "last_name": "vo",
+      "department": "IT",
+      "age": "276"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "admin"
+    },
+    {
+      "id": "3",
+      "username": "user2",
+      "password": "admin"
+    },
+    {
+      "id": "3ca5",
+      "name": "",
+      "lastname": "",
+      "email": "",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "2d96",
+      "name": "x",
+      "lastname": "x",
+      "email": "user@user.com",
+      "username": "user3",
+      "password": "user3"
+    }
+  ]
+}

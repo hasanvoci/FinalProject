@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="typing_extensions" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="employee.models.Employee.objects" />
+          <option value="user.models.Notification.objects" />
+          <option value="employee.models.Information.objects" />
+          <option value="employee.views.EmployeeInformationListCreate.get_success_headers" />
+          <option value="employee.models.Presence.objects" />
+          <option value="employee.models.Performance.objects" />
+          <option value="employee.models.Training.objects" />
+          <option value="HRProject.employee.admin.employee" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
