@@ -8,6 +8,4 @@ urlpatterns = [
     path('api/roles/', RoleList.as_view(), name='role-list'),
     path('api/user/<int:pk>/', UserList.as_view(), name='user-retrieve'),
     path('api/roles/<int:pk>/', RoleRetrieve.as_view(), name='role-retrieve'),
-
-
 ]
